@@ -1,0 +1,6 @@
+shadow prebuilt repo: evtest (target)
+  upstream: external/evtest
+  api-level: 32 (branch 32-20261010)
+  blobs: org.blisslabs.ag.evtest-14000001.apex org.blisslabs.ag.evtest.doc-14000001.apex 
+  dev-src: none (no dev subpackage)
+  date: 2026-10-10
