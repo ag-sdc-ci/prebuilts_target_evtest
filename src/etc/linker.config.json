@@ -1,0 +1,13 @@
+{
+	"provideLibs": [	
+		    "libdummy_binary_evtest-x86_64-v2.so",
+		    "libdummy_binary_evtest.so",
+		    "libdummy_ext_evtest-x86_64-v2.so",
+		    "libdummy_ext_evtest.so"
+	],
+	"requireLibs": [	
+		    "libc.so",
+		    "libdl.so"
+	],
+	"visible": true
+}
